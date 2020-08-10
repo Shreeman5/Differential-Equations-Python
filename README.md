@@ -1,4 +1,4 @@
-MATH314/Differential Equations/Python
+MATH316/Differential Equations/Python
 
 EULER'S METHOD
 
