@@ -1,3 +1,5 @@
+MATH314/Differential Equations/Python
+
 EULER'S METHOD
 
 This project was my first foray into Python. I had never taken a Python course at
